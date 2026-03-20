@@ -1,0 +1,19 @@
+2026-03-20 18:37:04,325 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/ | depth=0 | status=200 | category=general | risk=Low
+2026-03-20 18:37:07,789 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/compare-privacy | depth=1 | status=200 | category=service | risk=Medium
+2026-03-20 18:39:13,921 | ERROR | Fetch failed | url=seeds.txt | depth=0 | error_type=request_error
+2026-03-20 18:40:17,092 | ERROR | Fetch failed | url=seeds.txt | depth=0 | error_type=request_error
+2026-03-20 18:41:45,773 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/ | depth=0 | status=200 | category=general | risk=Low
+2026-03-20 18:41:47,777 | ERROR | Fetch failed | url=http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page | depth=0 | error_type=connection_failed
+2026-03-20 18:41:50,149 | INFO | Fetched | url=https://github.com/ | depth=0 | status=200 | category=forum | risk=High
+2026-03-20 18:41:53,488 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/compare-privacy | depth=1 | status=200 | category=service | risk=Medium
+2026-03-20 18:41:56,105 | INFO | Fetched | url=https://github.com/resources/events/github-roadmap-webinar-q1?utm_source=github&utm_medium=event&utm_campaign=AMER-FY26Q3-AMER-EMEA-Roadmap-Webinar-20260326&utm_content=website_banner | depth=1 | status=200 | category=forum | risk=Medium
+2026-03-20 18:56:26,449 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/ | depth=0 | status=200 | category=general | risk=Low
+2026-03-20 18:56:28,460 | ERROR | Fetch failed | url=http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page | depth=0 | error_type=connection_failed
+2026-03-20 18:56:30,844 | INFO | Fetched | url=https://github.com/ | depth=0 | status=200 | category=forum | risk=High
+2026-03-20 18:56:34,072 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/compare-privacy | depth=1 | status=200 | category=service | risk=Medium
+2026-03-20 18:56:36,677 | INFO | Fetched | url=https://github.com/resources/events/github-roadmap-webinar-q1?utm_source=github&utm_medium=event&utm_campaign=AMER-FY26Q3-AMER-EMEA-Roadmap-Webinar-20260326&utm_content=website_banner | depth=1 | status=200 | category=forum | risk=Medium
+2026-03-20 19:01:17,104 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/ | depth=0 | status=200 | category=general | risk=Low
+2026-03-20 19:01:19,110 | ERROR | Fetch failed | url=http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page | depth=0 | error_type=connection_failed
+2026-03-20 19:01:21,523 | INFO | Fetched | url=https://github.com/ | depth=0 | status=200 | category=forum | risk=High
+2026-03-20 19:01:24,692 | INFO | Fetched | url=https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/compare-privacy | depth=1 | status=200 | category=service | risk=Medium
+2026-03-20 19:01:27,414 | INFO | Fetched | url=https://github.com/resources/events/github-roadmap-webinar-q1?utm_source=github&utm_medium=event&utm_campaign=AMER-FY26Q3-AMER-EMEA-Roadmap-Webinar-20260326&utm_content=website_banner | depth=1 | status=200 | category=forum | risk=Medium

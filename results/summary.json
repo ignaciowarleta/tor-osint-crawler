@@ -1,0 +1,32 @@
+{
+  "total_pages": 5,
+  "total_errors": 1,
+  "categories": {
+    "general": 1,
+    "unknown": 1,
+    "forum": 2,
+    "service": 1
+  },
+  "risk_labels": {
+    "Low": 2,
+    "High": 1,
+    "Medium": 2
+  },
+  "languages": {
+    "en": 1,
+    "unknown": 1,
+    "es": 3
+  },
+  "top_keywords": {
+    "search": 25,
+    "support": 16,
+    "email": 13,
+    "secure": 6,
+    "links": 6,
+    "market": 5,
+    "account": 4,
+    "forum": 4,
+    "contact": 4,
+    "leak": 4
+  }
+}

@@ -1,2 +1,6 @@
 requests[socks]
 beautifulsoup4
+networkx
+matplotlib
+pandas
+streamlit

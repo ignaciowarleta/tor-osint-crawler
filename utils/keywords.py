@@ -1,9 +1,10 @@
 KEYWORDS = [
     "login", "password", "admin", "account",
-    "bitcoin", "wallet", "market",
-    "forum", "thread", "post",
-    "secure", "contact", "email",
-    "leak", "database"
+    "bitcoin", "wallet", "market", "cart", "order",
+    "forum", "thread", "post", "reply",
+    "secure", "contact", "email", "support",
+    "leak", "database", "dump",
+    "index", "search", "links", "directory",
 ]
 
 
