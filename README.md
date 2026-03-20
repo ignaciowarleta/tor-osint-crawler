@@ -1,9 +1,10 @@
 # Tor OSINT Crawler
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Tor](https://img.shields.io/badge/Tor-Network-purple)
-![OSINT](https://img.shields.io/badge/OSINT-tool-informational)
-![Security](https://img.shields.io/badge/Cybersecurity-project-red)
+![Tor Network](https://img.shields.io/badge/Tor-Network-7D4698?logo=torproject&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-Analysis-2C7BE5)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-D7263D)
+![Status](https://img.shields.io/badge/Status-Active-2ECC71)
 
 Herramienta en Python para el crawling de servicios `.onion` a través de la red Tor, orientada a la recopilación de metadatos y análisis básico OSINT.
 
