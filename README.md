@@ -6,8 +6,6 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-D7263D)
 ![Status](https://img.shields.io/badge/Status-Active-2ECC71)
 
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/32e090e5-b0dd-4187-91a5-a79e14b2a37a" />
-
 
 Herramienta en Python para el crawling de servicios `.onion` a través de la red Tor, orientada a la recopilación de metadatos y análisis básico OSINT.
 
