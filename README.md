@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Tor](https://img.shields.io/badge/Tor-Network-purple)
-![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-educational-lightgrey)
 ![OSINT](https://img.shields.io/badge/OSINT-tool-informational)
 ![Security](https://img.shields.io/badge/Cybersecurity-project-red)
 
